@@ -18,16 +18,12 @@ I have developed this system targeting three use cases, two primary and one seco
 
 --------
 ## Navigation help
-1. **New user? Want to get started quickly?**
-	1. First, read the [Quickstart.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Quickstart.pdf)
-	2. Then download the PDFs of the chapters you want.
-2. **New user? Need convincing?**
-	1. Check out [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf) Then follow the directions at its end.
-3. **A teacher?**
-	1. Same as above - Check out [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20The%20elevator%20pitch.pdf) Then follow the directions at its end.
-4. **Want the fully editable version?**
-	1. Get [the OneNote version.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote)
-5. **Looking for updates to chapters you have already downloaded?**
+1. **Are you a Reviewer?**
+	- Want to get started quickly? First, read the [Quickstart.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Reviewing%20-%20Quickstart.pdf) Then download the PDFs of the chapters you want.
+	- Need convincing? Check out [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Reviewing%20-%20The%20elevator%20pitch.pdf) Then follow the directions at its end.
+2. **Are you a Teacher?**
+	- Check out [the elevator pitch.](https://github.com/zahidsyed/learning-nahw-analytically/blob/main/pdf/00%20-%20Teaching%20-%20The%20elevator%20pitch.pdf) Then follow the directions at its end.
+3. **Looking for updates to chapters you have already downloaded?**
   	1. See [the latest release.](https://github.com/zahidsyed/learning-nahw-analytically/releases/latest) It will have comments on which chapters have been updated since the last release.
   	2. Then download either the zip file there (PDFs + OneNote). Alternatively, download a [specific PDF](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/pdf), or [the Onenote file.](https://github.com/zahidsyed/learning-nahw-analytically/tree/main/onenote)
 
